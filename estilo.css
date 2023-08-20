@@ -70,13 +70,22 @@ h2{
     }
 
 .slide img{
-height: 40vh;
+height: 35vh;
 
 }
 .casa{
 color: blue;
 text-decoration-line: underline;
 font-size: medium;
+
+}
+#carouselExample{
+    width: 1100px;
+   
+}
+
+#carouselExampleIndicators{
+    width: 1100px;
 }
 
 /*sobre nosotros*/
